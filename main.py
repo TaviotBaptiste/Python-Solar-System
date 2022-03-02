@@ -23,7 +23,7 @@
 #     - [FAIT] Le clic sur une planète la supprime
 #     - [FAIT][Ajouter Une planète aléatoirement] Le clic dans le vide ajoute une planète
 #     - autre :
-#         - [FAIT]Console ( Nom planètes, Nombre de planète)
+#         - [FAIT]Console ( Nom planète, Nombre de planète)
 #
 #
 #
