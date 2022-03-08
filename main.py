@@ -40,7 +40,7 @@ from os import system
 pygame.init()
 
 # ---BackGround Image---
-stars = pygame.image.load("stars.jpg")
+#stars = pygame.image.load("stars.jpg")
 
 
 # ---Taille de la fenêtre / Titre---
