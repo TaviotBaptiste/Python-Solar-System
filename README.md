@@ -1,12 +1,14 @@
 # Systeme-solaire-Python
 Licence DIM - EVAL - Solar System
 
-TIme for this code -> 1 week-end
+Representation of a Solar system. Farer the planet are from the sun and slower they move.
+You can add new or remove planets when you click on your mouse
 
-Used : pygame.py
+Used : 
+- Python
+- pygame.py
 
-
-You can totally use this code ! 
+Time i had for this code -> 1 week-end
 
 Preview : 
 <img width="995" alt="Capture d’écran 2022-03-08 à 09 41 43" src="https://user-images.githubusercontent.com/30879857/157199929-59d594f1-b373-4d50-9d15-cc283624515a.png">
